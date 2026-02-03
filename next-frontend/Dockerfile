@@ -1,7 +1,7 @@
 # Base image for build step
 FROM node:20 AS builder
 
-WORKDIR /app
+R /app
 
 # Install dependencies
 COPY package.json package-lock.json ./
