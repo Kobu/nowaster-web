@@ -1,4 +1,4 @@
-# Nowaster
+aster
 
 Simple application for tracking your time
 ![image](https://github.com/user-attachments/assets/ef7637c5-9158-4013-acc3-f4cb99c4c3a6)
